@@ -27,7 +27,7 @@ import { Button } from '@/components/ui/button';
 /**
  * Assets
  */
-import { Icon, MenuIcon } from 'lucide-react';
+import { MenuIcon } from 'lucide-react';
 
 /**
  * Constants
