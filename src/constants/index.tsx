@@ -220,11 +220,11 @@ const statsData: StatsType[] = [
     label: 'Happy Clients',
   },
   {
-    number: '05+',
+    number: '5+',
     label: 'Years Of Experience',
   },
   {
-    number: '50+',
+    number: '20+',
     label: 'Projects Done',
   },
 ];
