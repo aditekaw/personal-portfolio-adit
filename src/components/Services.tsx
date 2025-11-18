@@ -17,6 +17,7 @@ import { fadeUp, staggerContainer } from '@/lib/animations';
  * Components
  */
 import { SectionHeader } from '@/components/SectionHeader';
+import { ServicesCard } from '@/components/ServicesCard';
 
 /**
  * Constants
@@ -49,7 +50,7 @@ export const Services = () => {
             key={service.title}
             variants={fadeUp}
           >
-            <ServiceCard service={service} />
+            <ServicesCard service={service} />
           </motion.div>
         ))}
       </motion.div>
