@@ -22,7 +22,7 @@ export const Profile = () => {
           <p className='text-sm'>IT Enthusiast</p>
         </div>
         <img
-          src='./avatar.jpg'
+          src='./avatar.jpeg'
           alt=''
           className='lg:w-96 rounded-2xl object-cover'
         />
