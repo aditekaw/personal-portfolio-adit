@@ -16,7 +16,7 @@ import { fadeUp } from '@/lib/animations';
 /**
  * Types
  */
-import type { Project } from '@/types';
+import type { ProjectType } from '@/types';
 
 export const ProjectCard = ({
   imgSrc,

@@ -11,6 +11,7 @@ import { Hero } from '@/components/Hero';
 import { Stats } from '@/components/Stats';
 import { Projects } from '@/components/Projects';
 import { About } from '@/components/About';
+import { Services } from '@/components/Services';
 
 /**
  * Components
@@ -23,6 +24,7 @@ export const App = () => {
       <Stats />
       <Projects />
       <About />
+      <Services />
     </main>
   );
 };

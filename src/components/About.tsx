@@ -38,20 +38,20 @@ export const About = () => {
         className='mt-4 text-neutral-300'
       >
         I'm a front-end developer passionate about transforming complex problems
-        into clear, intuitive digital experience. I believe great design isn't
-        just about how something looks-it's about how it works. My approach
+        into clear, intuitive digital experiences. I believe great design isn't
+        just about how something looks—it's about how it works. My approach
         blends creativity with strategy, ensuring every interface not only looks
-        good but also feel effortlessto use{' '}
+        good but also feels effortless to use.
       </motion.p>
       <motion.p
         variants={fadeUp}
         className='mt-2 text-neutral-300'
       >
         I'm a front-end developer passionate about transforming complex problems
-        into clear, intuitive digital experience. I believe great design isn't
-        just about how something looks-it's about how it works. My approach
+        into clear, intuitive digital experiences. I believe great design isn't
+        just about how something looks—it's about how it works. My approach
         blends creativity with strategy, ensuring every interface not only looks
-        good but also feel effortlessto use{' '}
+        good but also feels effortless to use.
       </motion.p>
       <motion.div
         variants={fadeUp}
